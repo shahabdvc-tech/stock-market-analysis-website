@@ -1,0 +1,10 @@
+# Secrets / local files
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
+dist/
+build/
+*.log
+.DS_Store
